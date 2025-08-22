@@ -13,6 +13,6 @@ You'll get practical code samples, sample API responses, and some reality-check 
 Whether you're building a category tree, comment system, or organizational chart, this guide will help you pick the
 right approach.
 
-🔗 **Read the article**: [Managing Hierarchical Data in Laravel](#)
+🔗 **Read the article**: [Managing Hierarchical Data in Laravel](https://dev.to/tegos/managing-hierarchical-data-in-laravel-b9k)
 
 💻 **View source code**: [github.com/tegos/laravel-hierarchical-data](https://github.com/tegos/laravel-hierarchical-data)
